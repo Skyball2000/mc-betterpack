@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "mc_betterpack:stained_glass"
+  },
+  "result": "minecraft:glass",
+  "experience": 0.1,
+  "cookingtime": 100
+}

@@ -26,7 +26,7 @@ public class Build {
     }
 
     private static void clean() {
-        File buildDir = new File("build/mc-betterpack");
+        File buildDir = new File("build/mc_betterpack");
 
         // reset last build
         if (buildDir.exists())
@@ -41,7 +41,7 @@ public class Build {
         File getPackPng = new File("pack.png");
 
         // where to build files to
-        File buildDir = new File("build/mc-betterpack");
+        File buildDir = new File("build/mc_betterpack");
         File buildDataDir = new File(buildDir, "data");
         File buildPackMcMeta = new File(buildDir, "pack.mcmeta");
         File buildPackPng = new File(buildDir, "pack.png");

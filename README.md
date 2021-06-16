@@ -1,8 +1,9 @@
 # MC Betterpack
-A data pack designed to give items with no uses a purpose!
+A data pack designed to give items with no uses a purpose and add even more useful recipes! 
 
 
 ## Features
+Crafting Table:
 - Nether Wart Block → 4 Nether Warts
 - Mushrooms (both variants) 2x2 → Mushroom Block
 - 2 Red Mushrooms + 2 Brown Mushrooms → Mushroom Stem
@@ -10,6 +11,21 @@ A data pack designed to give items with no uses a purpose!
 - 8 Arrows + Ink Sacks → 8 Spectral Arrows
 - Glow Ink Sack → Cyan Dye
 - Glow Berries → Orange Dye
+- Glow Lichen 2x2 → Vines
+- Glow Lichen → Gray Dye
+- 3 Leather + 1 String → Bundle
+- 3 Rabbit Hide + 1 String → Bundle
+- Honeycomb Block → 4 Honeycombs
+- 8 Any Log → 4 Chests
+
+Smithing Table:
+- Damaged/Chipped Anvil + Iron Block → Chipped/Normal Anvil
+
+Furnace:
+- Any Stained Glass → Clear Glass
+
+Other:
+- Eating a glow berry will make you glow for 10 seconds
 
 ## To Do
 Items that need to be done
@@ -20,8 +36,6 @@ Items that need to be done
 - Warped Roots
 - Crimson Roots
 - Crimson Fungus
-- Honeycomb Block
-- Glow Lichen
 - Lili Pad
 - Shroomlight
 - Rotten Flesh (?)

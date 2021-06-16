@@ -1,0 +1,20 @@
+{
+    "criteria": {
+        "glowEaten": {
+            "trigger": "minecraft:consume_item",
+            "conditions": {
+                "item": {
+                    "items": ["minecraft:glow_berries"]
+                }
+            }
+        }
+    },
+    "requirements": [
+        [
+            "glowEaten"
+        ]
+    ],
+    "rewards": {
+        "function": "mc_betterpack:eat_glow_berry"
+    }
+}
