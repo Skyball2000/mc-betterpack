@@ -25,6 +25,7 @@ Items that need to be done
 - Lili Pad
 - Shroomlight
 - Rotten Flesh (?)
+- Poisonous Potato
 
 ## Contribute
 If you want to help, see [USEFUL-INFO.md](USEFUL-INFO.md) for more information.
