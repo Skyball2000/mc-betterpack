@@ -1,9 +1,15 @@
 # MC Betterpack
-A datapack designed to give items with no uses a purpose!
+A data pack designed to give items with no uses a purpose!
 
 
 ## Features
 - Nether Wart Block → 4 Nether Warts
+- Mushrooms (both variants) 2x2 → Mushroom Block
+- 2 Red Mushrooms + 2 Brown Mushrooms → Mushroom Stem
+- 8 Arrows + Glow Berry → 8 Spectral Arrows
+- 8 Arrows + Ink Sacks → 8 Spectral Arrows
+- Glow Ink Sack → Cyan Dye
+- Glow Berries → Orange Dye
 
 ## To Do
 Items that need to be done
@@ -19,7 +25,6 @@ Items that need to be done
 - Lili Pad
 - Shroomlight
 - Rotten Flesh (?)
-- Mushrooms (both variants) -> 2x2 -> Mushroom block
 
 ## Contribute
 If you want to help, see [USEFUL-INFO.md](USEFUL-INFO.md) for more information.
