@@ -17,12 +17,18 @@ Crafting Table:
 - 3 Rabbit Hide + 1 String → Bundle
 - Honeycomb Block → 4 Honeycombs
 - 8 Any Log → 4 Chests
+- Crimson Fungus + Glowstone → Shroomlight
 
 Smithing Table:
 - Damaged/Chipped Anvil + Iron Block → Chipped/Normal Anvil
 
 Furnace:
 - Any Stained Glass → Clear Glass
+  
+Blast Furnace:
+- Raw Iron Block → Iron Block
+- Raw Copper Block → Copper Block
+- Raw Gold Block → Gold Block
 
 Other:
 - Eating a glow berry will make you glow for 10 seconds
@@ -35,7 +41,6 @@ Items that need to be done
 - Weeping Vines
 - Warped Roots
 - Crimson Roots
-- Crimson Fungus
 - Lili Pad
 - Shroomlight
 - Rotten Flesh (?)
