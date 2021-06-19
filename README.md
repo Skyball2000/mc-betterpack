@@ -18,6 +18,7 @@ Crafting Table:
 - Honeycomb Block → 4 Honeycombs
 - 8 Any Log → 4 Chests
 - Crimson Fungus + Glowstone → Shroomlight
+- Sea Pickle → 2 Torches
 
 Smithing Table:
 - Damaged/Chipped Anvil + Iron Block → Chipped/Normal Anvil
@@ -35,7 +36,6 @@ Other:
 
 ## To Do
 Items that need to be done
-- Sea Pickle
 - Warped Wart Block
 - Twisting Vines
 - Weeping Vines
